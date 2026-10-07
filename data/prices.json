@@ -1,0 +1,44 @@
+{
+  "checked": "2026-10-07",
+  "currency": "USD",
+  "unit": "output second",
+  "models": {
+    "seedance-2.0-fast": {
+      "source": "https://argolink.io/en/models/seedance-2.0-fast",
+      "effective": {
+        "480p": 0.042,
+        "720p": 0.091
+      },
+      "official_catalog": {
+        "480p": 0.0562,
+        "720p": 0.121
+      }
+    },
+    "seedance-2.0": {
+      "source": "https://argolink.io/en/models/seedance-2.0",
+      "effective": {
+        "480p": 0.053,
+        "720p": 0.11,
+        "1080p": 0.28,
+        "4k": 0.58
+      },
+      "official_catalog": {
+        "480p": 0.0703,
+        "720p": 0.1512,
+        "1080p": 0.3742,
+        "4k": 0.7691
+      }
+    },
+    "seedance-2.0-mini": {
+      "source": "https://argolink.io/en/models/seedance-2.0-mini",
+      "effective": {
+        "480p": 0.026,
+        "720p": 0.057
+      },
+      "official_catalog": {
+        "480p": 0.0352,
+        "720p": 0.0756
+      }
+    }
+  }
+}
